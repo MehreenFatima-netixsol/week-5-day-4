@@ -1,0 +1,8 @@
+product,brand,category,price_usd,stock
+Dell XPS 13,Dell,laptop,999.00,14
+MacBook Air M3,Apple,laptop,1099.00,9
+ThinkPad X1 Carbon,Lenovo,laptop,1299.00,6
+Acer Swift 3,Acer,laptop,649.00,21
+HP Pavilion 15,HP,laptop,579.00,17
+MacBook Pro 14,Apple,laptop,1999.00,4
+Surface Laptop 6,Microsoft,laptop,1199.00,8
